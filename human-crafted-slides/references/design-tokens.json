@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "units": {
+    "canvas": "1280x720 design units",
+    "font": "pt at 13.333333x7.5 inch slide",
+    "conversion": "position inches = design units / 96; for another slide size scale all geometry and font sizes uniformly"
+  },
+  "canvas": {
+    "width": 1280,
+    "height": 720,
+    "slide_inches": [
+      13.333333,
+      7.5
+    ]
+  },
+  "provenance": {
+    "gray_orange_colors": "previously supplied original PPTX",
+    "blue_gray_colors": "Extracted from user-selected Canva PPTX export",
+    "geometry_and_font_sizes": "normalized offline reconstruction defaults, not exact source extraction"
+  },
+  "font": {
+    "preferred": [
+      "Pretendard",
+      "Noto Sans KR",
+      "Apple SD Gothic Neo",
+      "Malgun Gothic"
+    ],
+    "fallback_policy": "Choose first installed Korean family; use one family per deck; never download or request source font as prerequisite. Verify glyphs and fit locally.",
+    "weights": {
+      "regular": 400,
+      "bold": 700,
+      "heavy": 800
+    }
+  },
+  "spacing": {
+    "unit": 8,
+    "column_gap": 24,
+    "paragraph_gap": 12,
+    "text_padding": 16,
+    "table_cell_padding": 8
+  },
+  "gray_orange": {
+    "colors": {
+      "background": "#DDE3E6",
+      "paper": "#FFFFFF",
+      "ink": "#2B2B2B",
+      "accent": "#FF4D00",
+      "accent_secondary": "#FF751F",
+      "panel": "#EDF0F1",
+      "panel_strong": "#D1D1D1",
+      "muted": "#666666",
+      "rule": "#DDE3E6"
+    },
+    "paper": [
+      38,
+      38,
+      1204,
+      644
+    ],
+    "header": {
+      "left": [
+        64,
+        58,
+        420,
+        36
+      ],
+      "right": [
+        890,
+        62,
+        324,
+        28
+      ],
+      "dots": [
+        [
+          628,
+          78
+        ],
+        [
+          640,
+          78
+        ],
+        [
+          652,
+          78
+        ]
+      ],
+      "dot_radius": 3,
+      "rule": [
+        38,
+        112,
+        1242,
+        112
+      ]
+    },
+    "body": [
+      88,
+      150,
+      1104,
+      458
+    ],
+    "footer": [
+      64,
+      644,
+      1152,
+      24
+    ],
+    "font_pt": {
+      "cover": 64,
+      "section": 23,
+      "heading": 28,
+      "body": 18,
+      "caption": 11,
+      "metric": 54,
+      "table": 16
+    },
+    "line_width_pt": 0.75,
+    "cover": {
+      "title": [
+        170,
+        292,
+        940,
+        100
+      ],
+      "underline_y": [
+        404,
+        414
+      ],
+      "underline_x": [
+        230,
+        1050
+      ],
+      "underline_width_pt": 2.25
+    }
+  },
+  "blue_gray": {
+    "colors": {
+      "background": "#7288BA",
+      "paper": "#FCFCFC",
+      "ink": "#222222",
+      "accent": "#7288BA",
+      "panel": "#F1F1F1",
+      "panel_accent": "#EBEDF4",
+      "muted": "#4D4D4D",
+      "rule": "#E1E1E1",
+      "border": "#B8C1D6"
+    },
+    "outer_round_radius": 32,
+    "paper": [
+      38,
+      38,
+      1204,
+      644
+    ],
+    "header": {
+      "title": [
+        120,
+        68,
+        1040,
+        46
+      ],
+      "subtitle": [
+        160,
+        118,
+        960,
+        24
+      ],
+      "rule": [
+        88,
+        156,
+        1192,
+        156
+      ]
+    },
+    "body": [
+      88,
+      190,
+      1104,
+      410
+    ],
+    "footer": [
+      64,
+      644,
+      1152,
+      24
+    ],
+    "font_pt": {
+      "cover": 54,
+      "section": 28,
+      "heading": 23,
+      "body": 16,
+      "caption": 10.5,
+      "metric": 48,
+      "table": 14
+    },
+    "line_width_pt": 0.6,
+    "clip": {
+      "position": [
+        1182,
+        20,
+        22,
+        72
+      ],
+      "stroke": "#B5B5B5",
+      "stroke_width_pt": 1,
+      "implementation": "Use bundled original PNG with transparency and aspect ratio; line-only reconstruction is fallback only.",
+      "asset": "../assets/template-elements/blue-gray/media/image2.png"
+    },
+    "cover": {
+      "title": [
+        160,
+        250,
+        960,
+        160
+      ],
+      "subtitle": [
+        230,
+        432,
+        820,
+        40
+      ],
+      "footer_rule": [
+        64,
+        632,
+        1216,
+        632
+      ]
+    },
+    "paper_texture_asset": "../assets/template-elements/blue-gray/media/image1.png"
+  },
+  "motion": {
+    "provenance": "additional authored defaults; source effects documented separately in motion.md",
+    "default_mode": "presenter",
+    "auto_advance": false,
+    "sound": false,
+    "loop": false,
+    "gray_orange": {
+      "transition": "fade",
+      "transition_seconds": 0.35,
+      "title_seconds": 0.3,
+      "entrance_seconds": 0.25,
+      "stagger_seconds": 0.08,
+      "wipe_seconds": 0.45
+    },
+    "blue_gray": {
+      "transition": "fade",
+      "transition_seconds": 0.45,
+      "title_seconds": 0.4,
+      "entrance_seconds": 0.35,
+      "stagger_seconds": 0.1,
+      "wipe_seconds": 0.5
+    },
+    "static": {
+      "transition": "none",
+      "all_content_visible": true
+    },
+    "reduced": {
+      "motion_paths": false,
+      "zoom": false,
+      "morph": false,
+      "entrance": "fade",
+      "entrance_seconds": 0.15
+    }
+  },
+  "source_font_roles": {
+    "blue_gray": {
+      "title": "210 옴니고딕",
+      "body": "JASO Sans",
+      "metric": "JASO Sans Heavy",
+      "subtitle": "Source Han Sans KR",
+      "latin": "Poppins Medium"
+    },
+    "gray_orange": {
+      "title": "JASO Sans / 윤고딕",
+      "body": "윤고딕 Medium",
+      "latin": "Inter"
+    },
+    "policy": "Use source family when installed; otherwise font.preferred list. Do not download source fonts as prerequisite."
+  },
+  "source_blue_gray_type_sizes_pt_at_20inch": {
+    "cover": 109.33,
+    "section": 58.57,
+    "text_band_heading": 44.57,
+    "body": 22.5,
+    "subtitle": 15.5,
+    "metric": 72.44,
+    "unit": 32.08,
+    "change_badge": 21.97
+  },
+  "source_size_policy": "Source PPTX is 20x11.25 inches. For 13.333333x7.5 multiply source points by 2/3; if text is nested in a scaled group also compose that group scale. Normalized design role sizes elsewhere are adapted defaults; per-slide raw inventory is the exact source record."
+}

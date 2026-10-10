@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human-Crafted Slides"
+  short_description: "두 원본의 요소·레이아웃·애니메이션 규칙을 내장한 오프라인 발표자료 제작·문서 변환·수치 갱신"
+  default_prompt: "Use $human-crafted-slides to create an editable presentation using the built-in offline elements, design tokens, layouts, and animation recipes without opening Canva links and verify the rendered result."

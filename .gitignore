@@ -1,0 +1,7 @@
+*.zip
+*.pptx
+.build/
+.chart-data-*/
+.DS_Store
+__pycache__/
+human-crafted-slides/assets/
