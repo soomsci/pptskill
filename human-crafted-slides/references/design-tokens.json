@@ -16,7 +16,8 @@
   "provenance": {
     "gray_orange_colors": "previously supplied original PPTX",
     "blue_gray_colors": "Extracted from user-selected Canva PPTX export",
-    "geometry_and_font_sizes": "normalized offline reconstruction defaults, not exact source extraction"
+    "geometry_and_font_sizes": "normalized offline reconstruction defaults, not exact source extraction",
+    "beige_yellow_colors": "Extracted from user-selected Canva PPTX export (2026-10-10)"
   },
   "font": {
     "preferred": [
@@ -259,6 +260,14 @@
       "morph": false,
       "entrance": "fade",
       "entrance_seconds": 0.15
+    },
+    "beige_yellow": {
+      "transition": "fade",
+      "transition_seconds": 0.4,
+      "title_seconds": 0.35,
+      "entrance_seconds": 0.3,
+      "stagger_seconds": 0.1,
+      "wipe_seconds": 0.45
     }
   },
   "source_font_roles": {
@@ -274,7 +283,16 @@
       "body": "윤고딕 Medium",
       "latin": "Inter"
     },
-    "policy": "Use source family when installed; otherwise font.preferred list. Do not download source fonts as prerequisite."
+    "policy": "Use source family when installed; otherwise font.preferred list. Do not download source fonts as prerequisite.",
+    "beige_yellow": {
+      "title": "210 밀레니얼",
+      "label": "210 밀레니얼 Light",
+      "body": "윤굴림 Semi-Bold / Bold",
+      "section_number": "Moontime",
+      "handnote": "210 에필로그",
+      "latin": "Futura",
+      "quote_mark": "윤명조 Semi-Bold"
+    }
   },
   "source_blue_gray_type_sizes_pt_at_20inch": {
     "cover": 109.33,
@@ -286,5 +304,155 @@
     "unit": 32.08,
     "change_badge": 21.97
   },
-  "source_size_policy": "Source PPTX is 20x11.25 inches. For 13.333333x7.5 multiply source points by 2/3; if text is nested in a scaled group also compose that group scale. Normalized design role sizes elsewhere are adapted defaults; per-slide raw inventory is the exact source record."
+  "source_size_policy": "Source PPTX is 20x11.25 inches. For 13.333333x7.5 multiply source points by 2/3; if text is nested in a scaled group also compose that group scale. Normalized design role sizes elsewhere are adapted defaults; per-slide raw inventory is the exact source record.",
+  "beige_yellow": {
+    "colors": {
+      "background": "#F2ECE3",
+      "paper": "#FFFFFF",
+      "ink": "#272727",
+      "line_strong": "#000000",
+      "rule": "#E1E1E1",
+      "rule_on_background": "#E5DAD2",
+      "highlight": "#FFE397",
+      "band": "#FFE8AB",
+      "accent": "#3FA6FF",
+      "accent_soft": "#9AD0FF",
+      "card_cream": "#FFFCF4",
+      "card_blue": "#F4FAFE",
+      "panel": "#F8F8F8"
+    },
+    "background_texture_asset": "assets/template-elements/beige-yellow/media/image17.png",
+    "paper": [
+      78,
+      0,
+      1124,
+      720
+    ],
+    "ruled_lines": {
+      "x": [
+        130,
+        1150
+      ],
+      "first_y": 174,
+      "pitch": 39.8,
+      "count": 12,
+      "width_pt": 1.3
+    },
+    "header": {
+      "number": [
+        105,
+        54,
+        85,
+        128
+      ],
+      "title": [
+        179,
+        94,
+        820,
+        51
+      ],
+      "lead": [
+        179,
+        173,
+        894,
+        35
+      ]
+    },
+    "page_number": [
+      961,
+      664,
+      205,
+      25
+    ],
+    "body": [
+      166,
+      246,
+      948,
+      382
+    ],
+    "font_pt": {
+      "cover": 66,
+      "cover_kicker": 35,
+      "cover_label": 16,
+      "title": 34.7,
+      "section_number": 86.7,
+      "card_title": 22.7,
+      "list_title": 19.3,
+      "body": 16,
+      "small": 14,
+      "handnote": 27.4,
+      "quote": 17.3,
+      "page_number": 14
+    },
+    "line_width_pt": {
+      "rule": 1.3,
+      "card": 1.0,
+      "dash": 1.0
+    },
+    "cover": {
+      "paper": [
+        65,
+        65,
+        1150,
+        591
+      ],
+      "ruled_first_y": 111,
+      "ruled_pitch": 50.4,
+      "ruled_count": 11,
+      "label": [
+        538,
+        94,
+        205,
+        71
+      ],
+      "kicker": [
+        504,
+        224,
+        273,
+        52
+      ],
+      "title_lines": [
+        [
+          385,
+          291,
+          510,
+          97
+        ],
+        [
+          385,
+          392,
+          510,
+          97
+        ]
+      ],
+      "date": [
+        138,
+        569,
+        133,
+        30
+      ],
+      "presenter": [
+        524,
+        569,
+        232,
+        31
+      ]
+    },
+    "no_paper": {
+      "ruled_lines": [
+        99,
+        171,
+        1083,
+        453
+      ],
+      "ruled_count": 10,
+      "rule_color": "#E5DAD2",
+      "title": [
+        303,
+        94,
+        673,
+        51
+      ]
+    }
+  }
 }
