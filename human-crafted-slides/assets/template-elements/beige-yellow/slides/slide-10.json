@@ -1,0 +1,3117 @@
+{
+  "part": "ppt/slides/slide10.xml",
+  "object_count": 18,
+  "group_count": 2,
+  "fonts": [
+    "210 밀레니얼",
+    "윤굴림 Semi-Bold"
+  ],
+  "colors": [
+    "000000",
+    "272727",
+    "E5DAD2",
+    "F2ECE3"
+  ],
+  "transition": null,
+  "timing": null,
+  "relationships": {
+    "rId1": {
+      "Id": "rId1",
+      "Target": "../slideLayouts/slideLayout7.xml",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+      "resolved_part": "ppt/slideLayouts/slideLayout7.xml"
+    },
+    "rId10": {
+      "Id": "rId10",
+      "Target": "../media/image13.png",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image13.png"
+    },
+    "rId11": {
+      "Id": "rId11",
+      "Target": "../media/image14.svg",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image14.svg"
+    },
+    "rId12": {
+      "Id": "rId12",
+      "Target": "../media/image15.png",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image15.png"
+    },
+    "rId13": {
+      "Id": "rId13",
+      "Target": "../media/image16.svg",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image16.svg"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Target": "../media/image17.png",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image17.png"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Target": "../media/image18.svg",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image18.svg"
+    },
+    "rId4": {
+      "Id": "rId4",
+      "Target": "../media/image5.png",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image5.png"
+    },
+    "rId5": {
+      "Id": "rId5",
+      "Target": "../media/image6.svg",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image6.svg"
+    },
+    "rId6": {
+      "Id": "rId6",
+      "Target": "../media/image7.png",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image7.png"
+    },
+    "rId7": {
+      "Id": "rId7",
+      "Target": "../media/image8.svg",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image8.svg"
+    },
+    "rId8": {
+      "Id": "rId8",
+      "Target": "../media/image46.png",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image46.png"
+    },
+    "rId9": {
+      "Id": "rId9",
+      "Target": "../media/image47.svg",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "resolved_part": "ppt/media/image47.svg"
+    }
+  },
+  "object_tree": {
+    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cSld",
+    "attributes": {},
+    "children": [
+      {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}bg",
+        "attributes": {},
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}bgPr",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                    "attributes": {
+                      "val": "F2ECE3"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spTree",
+        "attributes": {},
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvGrpSpPr",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                "attributes": {
+                  "id": "1",
+                  "name": ""
+                }
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvGrpSpPr",
+                "attributes": {}
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                "attributes": {}
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}grpSpPr",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                    "attributes": {
+                      "x": "0",
+                      "y": "0"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                    "attributes": {
+                      "cx": "0",
+                      "cy": "0"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}chOff",
+                    "attributes": {
+                      "x": "0",
+                      "y": "0"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}chExt",
+                    "attributes": {
+                      "cx": "0",
+                      "cy": "0"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                    "attributes": {
+                      "name": "Freeform 2",
+                      "id": "2"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                    "attributes": {}
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                    "attributes": {}
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                    "attributes": {
+                      "flipH": "false",
+                      "flipV": "false",
+                      "rot": "0"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                        "attributes": {
+                          "x": "0",
+                          "y": "12069233"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                        "attributes": {
+                          "cx": "18288000",
+                          "cy": "18288000"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}custGeom",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}gdLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ahLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}cxnLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}rect",
+                        "attributes": {
+                          "r": "r",
+                          "b": "b",
+                          "t": "t",
+                          "l": "l"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pathLst",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}path",
+                            "attributes": {
+                              "h": "18288000",
+                              "w": "18288000"
+                            },
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}moveTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "18288000",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "18288000",
+                                      "y": "18288000"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "18288000"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}close",
+                                "attributes": {}
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blipFill",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                        "attributes": {
+                          "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId2"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}extLst",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                                "attributes": {
+                                  "uri": "{96DAC541-7B7A-43D3-8B79-37D633B846F1}"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.microsoft.com/office/drawing/2016/SVG/main}svgBlip",
+                                    "attributes": {
+                                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId3"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                            "attributes": {
+                              "l": "0",
+                              "t": "0",
+                              "r": "0",
+                              "b": "0"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}grpSp",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvGrpSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                    "attributes": {
+                      "name": "Group 3",
+                      "id": "3"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvGrpSpPr",
+                    "attributes": {}
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                    "attributes": {}
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}grpSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                    "attributes": {
+                      "rot": "0"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                        "attributes": {
+                          "x": "1417236",
+                          "y": "2441755"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                        "attributes": {
+                          "cx": "15474638",
+                          "cy": "6475806"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}chOff",
+                        "attributes": {
+                          "x": "0",
+                          "y": "0"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}chExt",
+                        "attributes": {
+                          "cx": "20632851",
+                          "cy": "8634408"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 4",
+                          "id": "4"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "12700"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 5",
+                          "id": "5"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "970129"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 6",
+                          "id": "6"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "1927558"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 7",
+                          "id": "7"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "2884988"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 8",
+                          "id": "8"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "3842417"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 9",
+                          "id": "9"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "4799846"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 10",
+                          "id": "10"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "5757275"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 11",
+                          "id": "11"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "6714704"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 12",
+                          "id": "12"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "7664437"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "AutoShape 13",
+                          "id": "13"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipV": "true"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "0",
+                              "y": "8621708"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "20632851",
+                              "cy": "0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                        "attributes": {
+                          "prst": "line"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ln",
+                        "attributes": {
+                          "cap": "flat",
+                          "w": "25400"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                "attributes": {
+                                  "val": "E5DAD2"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstDash",
+                            "attributes": {
+                              "val": "solid"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}headEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}tailEnd",
+                            "attributes": {
+                              "type": "none",
+                              "len": "sm",
+                              "w": "sm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                    "attributes": {
+                      "name": "Freeform 14",
+                      "id": "14"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                    "attributes": {}
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                    "attributes": {}
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                    "attributes": {
+                      "flipH": "false",
+                      "flipV": "false",
+                      "rot": "3337784"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                        "attributes": {
+                          "x": "14185796",
+                          "y": "-1081875"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                        "attributes": {
+                          "cx": "4990528",
+                          "cy": "4691096"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}custGeom",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}gdLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ahLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}cxnLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}rect",
+                        "attributes": {
+                          "r": "r",
+                          "b": "b",
+                          "t": "t",
+                          "l": "l"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pathLst",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}path",
+                            "attributes": {
+                              "h": "4691096",
+                              "w": "4990528"
+                            },
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}moveTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "4990528",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "4990528",
+                                      "y": "4691096"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "4691096"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}close",
+                                "attributes": {}
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blipFill",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                        "attributes": {
+                          "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId4"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}extLst",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                                "attributes": {
+                                  "uri": "{96DAC541-7B7A-43D3-8B79-37D633B846F1}"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.microsoft.com/office/drawing/2016/SVG/main}svgBlip",
+                                    "attributes": {
+                                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId5"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                            "attributes": {
+                              "l": "0",
+                              "t": "0",
+                              "r": "0",
+                              "b": "0"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                    "attributes": {
+                      "name": "TextBox 15",
+                      "id": "15"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                    "attributes": {
+                      "txBox": "true"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                    "attributes": {}
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                    "attributes": {
+                      "rot": "0"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                        "attributes": {
+                          "x": "5302087",
+                          "y": "6863847"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                        "attributes": {
+                          "cx": "7683827",
+                          "cy": "1094740"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "attributes": {
+                      "prst": "rect"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "attributes": {}
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}txBody",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}bodyPr",
+                    "attributes": {
+                      "anchor": "t",
+                      "rtlCol": "false",
+                      "tIns": "0",
+                      "lIns": "0",
+                      "bIns": "0",
+                      "rIns": "0"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}spAutoFit",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lstStyle",
+                    "attributes": {}
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}p",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pPr",
+                        "attributes": {
+                          "algn": "ctr"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnSpc",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}spcPts",
+                                "attributes": {
+                                  "val": "4550"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}r",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}rPr",
+                            "attributes": {
+                              "lang": "en-US",
+                              "b": "true",
+                              "sz": "2600",
+                              "spc": "-109"
+                            },
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                    "attributes": {
+                                      "val": "000000"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}latin",
+                                "attributes": {
+                                  "typeface": "윤굴림 Semi-Bold"
+                                }
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ea",
+                                "attributes": {
+                                  "typeface": "윤굴림 Semi-Bold"
+                                }
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}cs",
+                                "attributes": {
+                                  "typeface": "윤굴림 Semi-Bold"
+                                }
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}sym",
+                                "attributes": {
+                                  "typeface": "윤굴림 Semi-Bold"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}t",
+                            "attributes": {},
+                            "text": "궁금한 점이나 추가적으로 논의하고 싶은 부분이 있으면 자유롭게 말씀해주세요!"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                    "attributes": {
+                      "name": "Freeform 16",
+                      "id": "16"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                    "attributes": {}
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                    "attributes": {}
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                    "attributes": {
+                      "flipH": "false",
+                      "flipV": "false",
+                      "rot": "-1267277"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                        "attributes": {
+                          "x": "-670405",
+                          "y": "6735058"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                        "attributes": {
+                          "cx": "6852749",
+                          "cy": "5337032"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}custGeom",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}gdLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ahLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}cxnLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}rect",
+                        "attributes": {
+                          "r": "r",
+                          "b": "b",
+                          "t": "t",
+                          "l": "l"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pathLst",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}path",
+                            "attributes": {
+                              "h": "5337032",
+                              "w": "6852749"
+                            },
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}moveTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "6852749",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "6852749",
+                                      "y": "5337032"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "5337032"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}close",
+                                "attributes": {}
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blipFill",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                        "attributes": {
+                          "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId6"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}extLst",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                                "attributes": {
+                                  "uri": "{96DAC541-7B7A-43D3-8B79-37D633B846F1}"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.microsoft.com/office/drawing/2016/SVG/main}svgBlip",
+                                    "attributes": {
+                                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId7"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                            "attributes": {
+                              "l": "0",
+                              "t": "0",
+                              "r": "0",
+                              "b": "0"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                    "attributes": {
+                      "name": "Freeform 17",
+                      "id": "17"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                    "attributes": {}
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                    "attributes": {}
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                    "attributes": {
+                      "flipH": "false",
+                      "flipV": "false",
+                      "rot": "0"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                        "attributes": {
+                          "x": "7102776",
+                          "y": "2179638"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                        "attributes": {
+                          "cx": "4082449",
+                          "cy": "3214001"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}custGeom",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}gdLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ahLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}cxnLst",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}rect",
+                        "attributes": {
+                          "r": "r",
+                          "b": "b",
+                          "t": "t",
+                          "l": "l"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pathLst",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}path",
+                            "attributes": {
+                              "h": "3214001",
+                              "w": "4082449"
+                            },
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}moveTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "4082448",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "4082448",
+                                      "y": "3214001"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "3214001"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                    "attributes": {
+                                      "x": "0",
+                                      "y": "0"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}close",
+                                "attributes": {}
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blipFill",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                        "attributes": {
+                          "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId8"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}extLst",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                                "attributes": {
+                                  "uri": "{96DAC541-7B7A-43D3-8B79-37D633B846F1}"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.microsoft.com/office/drawing/2016/SVG/main}svgBlip",
+                                    "attributes": {
+                                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId9"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                            "attributes": {
+                              "l": "0",
+                              "t": "0",
+                              "r": "0",
+                              "b": "0"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                    "attributes": {
+                      "name": "TextBox 18",
+                      "id": "18"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                    "attributes": {
+                      "txBox": "true"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                    "attributes": {}
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                    "attributes": {
+                      "rot": "0"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                        "attributes": {
+                          "x": "4335219",
+                          "y": "5860364"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                        "attributes": {
+                          "cx": "9617561",
+                          "cy": "726990"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "attributes": {
+                      "prst": "rect"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "attributes": {}
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}txBody",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}bodyPr",
+                    "attributes": {
+                      "anchor": "t",
+                      "rtlCol": "false",
+                      "tIns": "0",
+                      "lIns": "0",
+                      "bIns": "0",
+                      "rIns": "0"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}spAutoFit",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lstStyle",
+                    "attributes": {}
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}p",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pPr",
+                        "attributes": {
+                          "algn": "ctr"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnSpc",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}spcPts",
+                                "attributes": {
+                                  "val": "5618"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}r",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}rPr",
+                            "attributes": {
+                              "lang": "en-US",
+                              "sz": "5202",
+                              "spc": "-228"
+                            },
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}solidFill",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}srgbClr",
+                                    "attributes": {
+                                      "val": "272727"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}latin",
+                                "attributes": {
+                                  "typeface": "210 밀레니얼"
+                                }
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ea",
+                                "attributes": {
+                                  "typeface": "210 밀레니얼"
+                                }
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}cs",
+                                "attributes": {
+                                  "typeface": "210 밀레니얼"
+                                }
+                              },
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}sym",
+                                "attributes": {
+                                  "typeface": "210 밀레니얼"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}t",
+                            "attributes": {},
+                            "text": "감사합니다!"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}grpSp",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvGrpSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                    "attributes": {
+                      "name": "Group 19",
+                      "id": "19"
+                    }
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvGrpSpPr",
+                    "attributes": {}
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                    "attributes": {}
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}grpSpPr",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                    "attributes": {
+                      "rot": "0"
+                    },
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                        "attributes": {
+                          "x": "12634950",
+                          "y": "-914784"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                        "attributes": {
+                          "cx": "3049912",
+                          "cy": "3049912"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}chOff",
+                        "attributes": {
+                          "x": "0",
+                          "y": "0"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}chExt",
+                        "attributes": {
+                          "cx": "4066549",
+                          "cy": "4066549"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "Freeform 20",
+                          "id": "20"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipH": "false",
+                          "flipV": "false",
+                          "rot": "-2241482"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "582648",
+                              "y": "582648"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "2901252",
+                              "cy": "2901252"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}custGeom",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}gdLst",
+                            "attributes": {}
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ahLst",
+                            "attributes": {}
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}cxnLst",
+                            "attributes": {}
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}rect",
+                            "attributes": {
+                              "r": "r",
+                              "b": "b",
+                              "t": "t",
+                              "l": "l"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pathLst",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}path",
+                                "attributes": {
+                                  "h": "2901252",
+                                  "w": "2901252"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}moveTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "0",
+                                          "y": "0"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "2901253",
+                                          "y": "0"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "2901253",
+                                          "y": "2901253"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "0",
+                                          "y": "2901253"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "0",
+                                          "y": "0"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}close",
+                                    "attributes": {}
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blipFill",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                            "attributes": {
+                              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId10"
+                            },
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}extLst",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                                    "attributes": {
+                                      "uri": "{96DAC541-7B7A-43D3-8B79-37D633B846F1}"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.microsoft.com/office/drawing/2016/SVG/main}svgBlip",
+                                        "attributes": {
+                                          "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId11"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                                "attributes": {
+                                  "l": "0",
+                                  "t": "0",
+                                  "r": "0",
+                                  "b": "0"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}sp",
+                "attributes": {},
+                "children": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvSpPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvPr",
+                        "attributes": {
+                          "name": "Freeform 21",
+                          "id": "21"
+                        }
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}cNvSpPr",
+                        "attributes": {}
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}nvPr",
+                        "attributes": {}
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}spPr",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}xfrm",
+                        "attributes": {
+                          "flipH": "false",
+                          "flipV": "false",
+                          "rot": "-2241482"
+                        },
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}off",
+                            "attributes": {
+                              "x": "598606",
+                              "y": "577254"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                            "attributes": {
+                              "cx": "2874389",
+                              "cy": "2874389"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}custGeom",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                            "attributes": {}
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}gdLst",
+                            "attributes": {}
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ahLst",
+                            "attributes": {}
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}cxnLst",
+                            "attributes": {}
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}rect",
+                            "attributes": {
+                              "r": "r",
+                              "b": "b",
+                              "t": "t",
+                              "l": "l"
+                            }
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pathLst",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}path",
+                                "attributes": {
+                                  "h": "2874389",
+                                  "w": "2874389"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}moveTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "0",
+                                          "y": "0"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "2874389",
+                                          "y": "0"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "2874389",
+                                          "y": "2874388"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "0",
+                                          "y": "2874388"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}lnTo",
+                                    "attributes": {},
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}pt",
+                                        "attributes": {
+                                          "x": "0",
+                                          "y": "0"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}close",
+                                    "attributes": {}
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blipFill",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                            "attributes": {
+                              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId12"
+                            },
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}extLst",
+                                "attributes": {},
+                                "children": [
+                                  {
+                                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}ext",
+                                    "attributes": {
+                                      "uri": "{96DAC541-7B7A-43D3-8B79-37D633B846F1}"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "{http://schemas.microsoft.com/office/drawing/2016/SVG/main}svgBlip",
+                                        "attributes": {
+                                          "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId13"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                            "attributes": {},
+                            "children": [
+                              {
+                                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                                "attributes": {
+                                  "l": "0",
+                                  "t": "0",
+                                  "r": "0",
+                                  "b": "0"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

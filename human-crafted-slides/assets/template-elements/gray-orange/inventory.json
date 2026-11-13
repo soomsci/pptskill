@@ -1,0 +1,402 @@
+{
+  "source_sha256": "fa306a7c0b3cd787b9d1ab7a9f6922eb3612321cba9ae51eeb5d14ac9959ff73",
+  "scope": "Local PPTX export only. Export absence does not prove Canva absence. Text is template sample content, not user facts. Transforms preserve nested local coordinate spaces; compose parent transforms before positioning.",
+  "slides": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "object_count": 16,
+      "group_count": 5,
+      "fonts": [
+        "Inter",
+        "Inter Light",
+        "JASO Sans",
+        "JASO Sans Bold",
+        "윤고딕"
+      ],
+      "colors": [
+        "2B2B2B",
+        "D1D1D1",
+        "DDE3E6",
+        "FF4D00",
+        "FFFFFF"
+      ],
+      "transition": null,
+      "timing": null,
+      "detail_path": "slides/slide-01.json"
+    },
+    {
+      "part": "ppt/slides/slide2.xml",
+      "object_count": 19,
+      "group_count": 6,
+      "fonts": [
+        "Inter",
+        "윤고딕",
+        "윤고딕 Medium"
+      ],
+      "colors": [
+        "2B2B2B",
+        "D1D1D1",
+        "DDE3E6",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-02.json"
+    },
+    {
+      "part": "ppt/slides/slide3.xml",
+      "object_count": 25,
+      "group_count": 9,
+      "fonts": [
+        "Arial",
+        "Inter",
+        "JASO Sans",
+        "JASO Sans Bold",
+        "윤고딕",
+        "윤고딕 Medium",
+        "윤고딕 Semi-Bold"
+      ],
+      "colors": [
+        "2B2B2B",
+        "D1D1D1",
+        "DDE3E6",
+        "EDF0F1",
+        "FF4D00",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-03.json"
+    },
+    {
+      "part": "ppt/slides/slide4.xml",
+      "object_count": 22,
+      "group_count": 9,
+      "fonts": [
+        "Arial",
+        "Inter",
+        "JASO Sans",
+        "윤고딕",
+        "윤고딕 Medium",
+        "윤고딕 Semi-Bold"
+      ],
+      "colors": [
+        "2B2B2B",
+        "D1D1D1",
+        "DDE3E6",
+        "EDF0F1",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-04.json"
+    },
+    {
+      "part": "ppt/slides/slide5.xml",
+      "object_count": 27,
+      "group_count": 6,
+      "fonts": [
+        "Inter",
+        "JASO Sans",
+        "윤고딕",
+        "윤고딕 Medium"
+      ],
+      "colors": [
+        "2B2B2B",
+        "D1D1D1",
+        "DDE3E6",
+        "FF751F",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-05.json"
+    },
+    {
+      "part": "ppt/slides/slide6.xml",
+      "object_count": 27,
+      "group_count": 9,
+      "fonts": [
+        "Inter",
+        "JASO Sans",
+        "윤고딕 Medium"
+      ],
+      "colors": [
+        "2B2B2B",
+        "40C602",
+        "D1D1D1",
+        "DDE3E6",
+        "FF4D00",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-06.json"
+    },
+    {
+      "part": "ppt/slides/slide7.xml",
+      "object_count": 22,
+      "group_count": 6,
+      "fonts": [
+        "Inter",
+        "윤고딕",
+        "윤고딕 Medium"
+      ],
+      "colors": [
+        "2B2B2B",
+        "D1D1D1",
+        "DDE3E6",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-07.json"
+    },
+    {
+      "part": "ppt/slides/slide8.xml",
+      "object_count": 12,
+      "group_count": 6,
+      "fonts": [
+        "Inter",
+        "JASO Sans",
+        "윤고딕 Medium"
+      ],
+      "colors": [
+        "2B2B2B",
+        "B4B4B4",
+        "D1D1D1",
+        "DDE3E6",
+        "EDF0F1",
+        "FF4D00",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-08.json"
+    },
+    {
+      "part": "ppt/slides/slide9.xml",
+      "object_count": 22,
+      "group_count": 9,
+      "fonts": [
+        "Inter",
+        "JASO Sans",
+        "JASO Sans Bold",
+        "윤고딕",
+        "윤고딕 Medium",
+        "윤고딕 Semi-Bold"
+      ],
+      "colors": [
+        "2B2B2B",
+        "D1D1D1",
+        "DDE3E6",
+        "FF4D00",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-09.json"
+    },
+    {
+      "part": "ppt/slides/slide10.xml",
+      "object_count": 12,
+      "group_count": 6,
+      "fonts": [
+        "Inter",
+        "Inter Light",
+        "윤고딕"
+      ],
+      "colors": [
+        "2B2B2B",
+        "D1D1D1",
+        "DDE3E6",
+        "FFFFFF"
+      ],
+      "transition": {
+        "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}transition",
+        "attributes": {
+          "spd": "fast"
+        },
+        "children": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/presentationml/2006/main}fade",
+            "attributes": {}
+          }
+        ]
+      },
+      "timing": null,
+      "detail_path": "slides/slide-10.json"
+    }
+  ],
+  "media": [
+    {
+      "part": "ppt/media/image1.png",
+      "local_path": "media/image1.png",
+      "bytes": 9796,
+      "sha256": "e258aa3206a73e642b18ff24b9520ac924cf7193f24d38e77dac912c2bc3913f",
+      "used_on_slides": [
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "part": "ppt/media/image2.svg",
+      "local_path": "media/image2.svg",
+      "bytes": 943,
+      "sha256": "c0d4432892bd99eb1278739d35c5e88f484252e7fa2a774ed5a11940d4af2e82",
+      "used_on_slides": [
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "part": "ppt/media/image3.png",
+      "local_path": "media/image3.png",
+      "bytes": 12238,
+      "sha256": "17fed9db8cd60db3a7ecd9f6af4e29d986efb36ed1dcaf24c5705a398777d350",
+      "used_on_slides": [
+        5
+      ]
+    },
+    {
+      "part": "ppt/media/image4.png",
+      "local_path": "media/image4.png",
+      "bytes": 10484,
+      "sha256": "1af5f57343d0f566b712331a95e1439247fe3064147042e07a16b427fefe6636",
+      "used_on_slides": [
+        5
+      ]
+    },
+    {
+      "part": "ppt/media/image5.png",
+      "local_path": "media/image5.png",
+      "bytes": 7591,
+      "sha256": "99db31f42c1a1d8a9b75ef96793727084e48fcefc1d702ff12401e7689edc37b",
+      "used_on_slides": [
+        5
+      ]
+    },
+    {
+      "part": "ppt/media/image6.png",
+      "local_path": "media/image6.png",
+      "bytes": 5967,
+      "sha256": "fd935f78b090ec1b30ea27435e1579fcfa4d73354dae8e94c2718d4633f17091",
+      "used_on_slides": [
+        7
+      ]
+    },
+    {
+      "part": "ppt/media/image7.png",
+      "local_path": "media/image7.png",
+      "bytes": 5534,
+      "sha256": "a49f7f782fb1c9d8ded9e59a0ca7e39f83eb6c0e5b06fbe63ea3baa5bbd69921",
+      "used_on_slides": [
+        7
+      ]
+    },
+    {
+      "part": "ppt/media/image8.png",
+      "local_path": "media/image8.png",
+      "bytes": 17863,
+      "sha256": "2f79e7576068ec1dec317d864edf9f8aa16d07752cc00f5b661f854ff7f3d64f",
+      "used_on_slides": [
+        7
+      ]
+    }
+  ],
+  "slide_size_emu": {
+    "cx": "18288000",
+    "cy": "10287000"
+  },
+  "native_chart_parts": []
+}
